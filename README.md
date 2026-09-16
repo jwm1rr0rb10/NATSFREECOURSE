@@ -12,7 +12,7 @@
 
 ⭐ If the course helps, star the repository so other developers can find it.
 
-🇷🇺 English version: [README.md](README.md)
+🇬🇧 English version: [README.md](README.md)
 
 ---
 
